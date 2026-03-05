@@ -38,13 +38,13 @@ System Administrator | Defensive Security Enthusiast | SOC Analyst | Cybersecuri
 - I'm looking for opportunities to collaborate on cybersecurity and tech projects!  
 - Ask me about **System Administration, Defensive Security, Active Directory, Python Scapy, and Network Configuration**.  
 - Fun fact: I enjoy solving complex security challenges and building mobile apps!  
-- My native language is Urdu, I have [your English level] in English.
+- My native language is Urdu, I have Fluent in English.
 
 ---
 
 ## 🏅 Certifications
 
-- **Linux Essentials** – Cisco (2024)
+- **Linux Essentials** – Cisco (2022)
 - [Add any other certifications you have]
 
 ---
@@ -64,13 +64,13 @@ System Administrator | Defensive Security Enthusiast | SOC Analyst | Cybersecuri
 ### Defensive Security
 - **Threat Hunting** | **Incident Response**
 - **Log Analysis** (Sysmon, Event Logs)
-- **SIEM Tools** [add specific ones if you use]
+- **SIEM Tools** (Will Learn Soon)
 - **Endpoint Security**
 - **Network Security Monitoring**
 
 ### Networking & Packet Analysis
 - **Python Scapy** – Packet crafting and manipulation
-- **Wireshark** | **TCPDump**
+- **Wireshark**
 - **GNS3** | **Cisco Packet Tracer**
 - **Network Topology Design**
 - **Routing & Switching**
@@ -176,6 +176,9 @@ System Administrator | Defensive Security Enthusiast | SOC Analyst | Cybersecuri
 | Certificate | Issuing Organization | Year |
 |------------|---------------------|------|
 | Linux Essentials | Cisco | 2022 |
+## 🏆 Achievements
+
+![Wireshark Hunter](https://img.shields.io/badge/Wireshark-Beginner_➜_Hunter-black?logo=wireshark&style=for-the-badge)
 
 ---
 
